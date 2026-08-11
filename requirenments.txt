@@ -1,0 +1,22 @@
+# Langchain Core
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-openai
+langchain-community
+
+openai
+
+langchain-anthropic
+
+langchain-google-genai
+google-generativeai
+
+langchain-huggingface
+transformers
+huggingface-hub
+
+python-dotenv
+numpy
+scikit-learn
